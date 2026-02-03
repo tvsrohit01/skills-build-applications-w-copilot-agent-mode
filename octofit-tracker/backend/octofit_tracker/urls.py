@@ -32,4 +32,3 @@ urlpatterns = [
 ]
 
 
-from .views import api_root
